@@ -73,9 +73,5 @@ Local Binary Pattern (LBP) is a simple yet very efficient texture operator which
 
 We apply the above transformations to each image (when needed) and train using SVM, XG Boost etc..
 
-## We obtain around 60% accuracy (7 class SVM) on test set using traditional ML
+## We obtain around 88% accuracy (7 class SVM) on test set using traditional ML
 ## For more info read main.ipynb
-
-# Todo
-
-1. Use Neural Networks
